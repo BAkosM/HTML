@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IDC</title>
+</head>
+<body style="background-color:rgb(25,25,25);">
+<img src="IDC.jpg" style="display:block; margin-left:auto; margin-right:auto; width:50%;">
+</body>
+</html>
