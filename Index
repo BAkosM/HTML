@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+	<meta charset="utf-8">
+	<title>HTML</title>
+</head>
+<body style="background-color:white;">
+	<H1 style="text-align:center;">Ez egy tökéletes HTML oldal.</H1>
+	<a href="IDC.html" style="margin-left:43%;">Katt ide ha nem értesz egyet</a>
+</body>
+</html>
